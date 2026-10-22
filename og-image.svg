@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Almubarak Trading</title>
+  <desc id="desc">شركة المبارك للتجارة العامة وخدمات الاستثمار</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#12312E"/>
+      <stop offset="100%" stop-color="#0C2422"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#D5AD73"/>
+      <stop offset="100%" stop-color="#B8874A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="320" r="210" fill="none" stroke="url(#gold)" stroke-width="3" opacity="0.9"/>
+  <circle cx="600" cy="320" r="150" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.8" stroke-dasharray="4 8"/>
+  <circle cx="600" cy="320" r="90" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.75"/>
+  <text x="600" y="330" text-anchor="middle" font-size="120" font-family="Georgia, serif" fill="#F6F1E7">م</text>
+  <text x="600" y="455" text-anchor="middle" font-size="52" font-family="Tahoma, Arial, sans-serif" fill="#F6F1E7" font-weight="700">شركة المبارك</text>
+  <text x="600" y="515" text-anchor="middle" font-size="28" font-family="Tahoma, Arial, sans-serif" fill="#D5AD73" letter-spacing="2">للتجارة العامة وخدمات الاستثمار</text>
+</svg>
